@@ -1,4 +1,3 @@
-
 public interface Observer {
-	public void update(FormatModel o);
+    public void update(FormatModel o);
 }
